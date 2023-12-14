@@ -18,11 +18,11 @@ public class baseTest {
         driver.get(url);
     }
 
-    /*@After
+    @After
     public void tearDown () {
         if (driver != null){
             driver.quit();
         }
-    }*/
+    }
 
 }

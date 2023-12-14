@@ -12,8 +12,8 @@
       Then verify message
       Examples:
         | Email | password |
-        |tester1@gmail.com |12345|
-        |tester2@gmail.com|252525|
+        |tester12@gmail.com |12345|
+        |tester45@gmail.com|252525|
         |tester3@gmail.com|353535|
         |tester4@gmail.com|787878|
 
